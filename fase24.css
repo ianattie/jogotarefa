@@ -1,0 +1,13 @@
+div{
+    display: flex;
+    height: 100vh;
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: center;
+    flex-wrap: wrap-reverse;
+}
+
+.x{
+    border: 5px solid #ddd318;
+}
