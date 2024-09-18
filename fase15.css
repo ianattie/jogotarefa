@@ -1,0 +1,7 @@
+div{
+    display: flex;
+}
+.red{
+    border: 5px solid #ee0b0b;;
+    order: -4;
+}
