@@ -1,0 +1,10 @@
+div{
+    display: flex;
+    align-items: flex-start;
+    height: 100vh;
+}
+.yellow{
+    align-self: flex-end;
+    order:2;
+    border: 5px solid #25fc09;
+}

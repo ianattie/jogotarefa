@@ -1,0 +1,18 @@
+div{
+    height: 100vh;
+    display: flex;
+align-items: flex-start;
+  
+   
+}
+.yellow{
+   
+        border: 5px solid #25fc09;
+        align-self: flex-end;
+        
+}
+
+.green {
+    border: 5px solid #ddd318;
+ 
+}

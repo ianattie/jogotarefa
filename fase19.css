@@ -1,0 +1,12 @@
+div{
+    display: flex;
+flex-direction: column;
+flex-wrap: wrap;
+height: 100vh;
+
+  
+}
+.li {
+    border: 5px solid #ddd318;
+    
+}
